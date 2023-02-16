@@ -1,6 +1,6 @@
 Compilazione:
 
-In Centro-Vaccinale/codice
+In PMCSNPROGETTOVACCINO/codice
 
 		gcc progetto_vaccino.c rvgs.c rvms.c rngs.c -o project
 
@@ -10,7 +10,7 @@ Esecuzione
 
 Compilazione progetto sistema migliorato:
 
-In Centro-Vaccinale/codice
+In PMCSNPROGETTOVACCINO/codice
 
 		gcc progetto_vaccino_mig.c rvgs.c rvms.c rngs.c -o project_mig
 
@@ -19,6 +19,6 @@ Esecuzione:
 		./project_mig
 
 
-Nella cartella Grafici è presente il notebook scritto in linguaggio Python utilizzato per la creazione di grafici riassuntivi mostrati nella relazione. 
+Nella cartella Grafici è presente il notebook scritto in linguaggio Python utilizzato per la creazione di grafici riassuntiti mostrati nella relazione. 
 
 La cartella Doc contiene la relazione finale.
