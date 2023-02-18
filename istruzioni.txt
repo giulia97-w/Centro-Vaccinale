@@ -1,6 +1,6 @@
 Compilazione:
 
-In PMCSNPROGETTOVACCINO/codice
+In Centro-Vaccinale/codice
 
 		gcc progetto_vaccino.c rvgs.c rvms.c rngs.c -o project
 
@@ -10,7 +10,7 @@ Esecuzione
 
 Compilazione progetto sistema migliorato:
 
-In PMCSNPROGETTOVACCINO/codice
+In Centro-Vaccinale/codice
 
 		gcc progetto_vaccino_mig.c rvgs.c rvms.c rngs.c -o project_mig
 
